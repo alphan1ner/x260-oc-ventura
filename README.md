@@ -1,5 +1,10 @@
 # X260 | oc0.9.2 | macOS 13.4
 
+<p align="center">
+  <kbd><br>macOS Ventura
+  <br><br>
+  <kbd><img src="https://github.com/alphan1ner/x260-oc-ventura/blob/ventura/Screenshots/1.png?raw=true"/></kbd></kbd>
+
 **System Specifications**
 
 | Spec | Config |
